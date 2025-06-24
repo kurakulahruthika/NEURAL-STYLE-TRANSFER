@@ -126,4 +126,7 @@ This Neural Style Transfer project gave me a creative way to apply deep learning
 In the future, I plan to experiment with *real-time style transfer* using feed-forward networks and possibly extend this to *video style transfer*.
 
 ---
+###   OUTPUT
+
+![Image](https://github.com/user-attachments/assets/63573228-7c9d-490b-b244-3630d4c33c4a)
 
